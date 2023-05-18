@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 你好，世界 👋
@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
+
+ -->
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical" />
+
+### 你好，世界 👋
+
+- **I am a postgraduate in xidian university.**
+- **My research field is multi-object tracking.** 
+- **I am good at C++ and Python development.**
+
