@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LHCyGan/LHCyGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical" />
 
-### 你好，世界 👋
+### 你好 👋
 
 - **I am a postgraduate in xidian university.**
 - **My research field is multi-object tracking.** 
