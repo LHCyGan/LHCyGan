@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 - **My research field is multi-object tracking.** 
 - **I am good at C++ and Python development.**
 
+<b>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackWoo0831&layout=compact&theme=tokyonight&hide=html" width=400 ></image>
+</b>
+
+
