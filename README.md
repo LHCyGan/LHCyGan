@@ -27,8 +27,10 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-<!--   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack"> -->
-<!--   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"> -->
+  <img src="https://img.shields.io/badge/-Linux-%232C3A42?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/-IDEA-%234B32C3?style=flat-square&logo=idea">
+  <img src="https://img.shields.io/badge/-Pycharm-%234B32C3?style=flat-square&logo=pycharm">
+  <img src="https://img.shields.io/badge/-VSCODE-%234B32C3?style=flat-square&logo=vscode">
 </div>
 
 
