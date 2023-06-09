@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - **I am good at C++ and Python development.**
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=400 ></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=360 ></image>
 </b>
 
 + ![LHCyGan](https://komarev.com/ghpvc/?username=LHCyGan)
