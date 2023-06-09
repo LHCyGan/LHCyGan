@@ -43,14 +43,15 @@
 - 🏋 My research field is multi-object tracking. ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 📨 My email address is `autoencoder2000@163.com` Welcome to contact me 👏🏻 ~
+- ![LHCyGan](https://komarev.com/ghpvc/?username=LHCyGan)
 
 
 
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical" />
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=360 ></image>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=360 />
 
-+ ![LHCyGan](https://komarev.com/ghpvc/?username=LHCyGan)
+
 <!-- + ![LHCyGan](https://visitor-badge.glitch.me/badge?page_id=LHCyGan.profile) -->
 
 
