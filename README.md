@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到HengLiu’s Github!&center=true&size=27">  </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
