@@ -49,7 +49,7 @@
 
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical" width=360/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=360 />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=400 />
 
 
 <!-- + ![LHCyGan](https://visitor-badge.glitch.me/badge?page_id=LHCyGan.profile) -->
