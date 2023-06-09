@@ -46,7 +46,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LHCyGan&show_icons=true&theme=radical" width=420/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHCyGan&layout=compact&theme=tokyonight&hide=html" width=360 />
 
-
-<!-- + ![LHCyGan](https://visitor-badge.glitch.me/badge?page_id=LHCyGan.profile) -->
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LHCyGan" /> </div>
 
 
