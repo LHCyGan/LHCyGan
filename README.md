@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./bg.gif" width="400"/>
+<div align="center"><img align="center" alt="GIF" src="./bg.gif" width="400"/> </div>
 
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
