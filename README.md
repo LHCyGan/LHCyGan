@@ -16,11 +16,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-f6da1c?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-2b6dbf?style=flat&logo=c++&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-00b4ce?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Javascript-3C873A?style=flat&logo=js&logoColor=white">
-  <img src="https://img.shields.io/badge/-GoLang-33333D?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/-Shell-bf608e?style=flat&logo=shell&logoColor=white">
   <img src="https://img.shields.io/badge/-C-b37feb?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-00b4ce?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-GoLang-33333D?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Javascript-3C873A?style=flat&logo=js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Shell-bf608e?style=flat&logo=shell&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/--cf1322?style=flat&logo=graphql&logoColor=white"> -->
 </div>
 <div align="center">
